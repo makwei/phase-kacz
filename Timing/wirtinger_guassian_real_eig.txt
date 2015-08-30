@@ -1,0 +1,10 @@
+Wirtinger -> gaussian, real, eig_init, n: 256, m: 1536, iter: 287, t: 0.822941, relres: 9.63449e-11, relerr: 1.90644e-10
+Wirtinger -> gaussian, real, eig_init, n: 256, m: 1536, iter: 292, t: 0.962573, relres: 9.51646e-11, relerr: 1.86048e-10
+Wirtinger -> gaussian, real, eig_init, n: 256, m: 1536, iter: 283, t: 0.832086, relres: 9.39363e-11, relerr: 1.86841e-10
+Wirtinger -> gaussian, real, eig_init, n: 256, m: 1536, iter: 290, t: 0.949524, relres: 9.86493e-11, relerr: 1.92002e-10
+Wirtinger -> gaussian, real, eig_init, n: 256, m: 1536, iter: 277, t: 0.816356, relres: 9.25095e-11, relerr: 1.71146e-10
+Wirtinger -> gaussian, real, eig_init, n: 256, m: 1536, iter: 272, t: 0.897963, relres: 9.80897e-11, relerr: 1.8795e-10
+Wirtinger -> gaussian, real, eig_init, n: 256, m: 1536, iter: 295, t: 0.86975, relres: 9.77409e-11, relerr: 2.01294e-10
+Wirtinger -> gaussian, real, eig_init, n: 256, m: 1536, iter: 295, t: 0.950122, relres: 9.33657e-11, relerr: 1.86961e-10
+Wirtinger -> gaussian, real, eig_init, n: 256, m: 1536, iter: 287, t: 0.845887, relres: 9.89279e-11, relerr: 2.09071e-10
+Wirtinger -> gaussian, real, eig_init, n: 256, m: 1536, iter: 279, t: 0.911912, relres: 9.96782e-11, relerr: 1.92726e-10

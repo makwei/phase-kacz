@@ -1,0 +1,10 @@
+Block Kaczmarz-64 -> guassian, real, eig_init, n: 256, m: 1536, iter: 8, t: 0.0332223, relres: 6.71726e-12, relerr: 6.52721e-12
+Block Kaczmarz-64 -> guassian, real, eig_init, n: 256, m: 1536, iter: 8, t: 0.034492, relres: 9.05028e-12, relerr: 8.05853e-12
+Block Kaczmarz-64 -> guassian, real, eig_init, n: 256, m: 1536, iter: 8, t: 0.037678, relres: 5.67867e-12, relerr: 5.25192e-12
+Block Kaczmarz-64 -> guassian, real, eig_init, n: 256, m: 1536, iter: 8, t: 0.036231, relres: 4.55585e-12, relerr: 4.26758e-12
+Block Kaczmarz-64 -> guassian, real, eig_init, n: 256, m: 1536, iter: 8, t: 0.036, relres: 1.02724e-11, relerr: 9.54902e-12
+Block Kaczmarz-64 -> guassian, real, eig_init, n: 256, m: 1536, iter: 8, t: 0.036567, relres: 1.1834e-11, relerr: 1.06287e-11
+Block Kaczmarz-64 -> guassian, real, eig_init, n: 256, m: 1536, iter: 8, t: 0.035163, relres: 8.57667e-12, relerr: 8.58218e-12
+Block Kaczmarz-64 -> guassian, real, eig_init, n: 256, m: 1536, iter: 8, t: 0.034719, relres: 9.11221e-12, relerr: 8.70026e-12
+Block Kaczmarz-64 -> guassian, real, eig_init, n: 256, m: 1536, iter: 8, t: 0.035384, relres: 3.39505e-12, relerr: 3.3481e-12
+Block Kaczmarz-64 -> guassian, real, eig_init, n: 256, m: 1536, iter: 9, t: 0.043436, relres: 3.321e-12, relerr: 3.23146e-12

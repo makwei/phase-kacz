@@ -1,0 +1,10 @@
+Kaczmarz -> gaussian, real, eig_init, n: 256, m: 1536, iter: 11, t: 0.56403, relres: 7.74456e-14, relerr: 7.3295e-14
+Kaczmarz -> gaussian, real, eig_init, n: 256, m: 1536, iter: 11, t: 0.557923, relres: 3.93915e-14, relerr: 3.86774e-14
+Kaczmarz -> gaussian, real, eig_init, n: 256, m: 1536, iter: 10, t: 0.442365, relres: 7.51817e-13, relerr: 6.94901e-13
+Kaczmarz -> gaussian, real, eig_init, n: 256, m: 1536, iter: 10, t: 0.43653, relres: 2.71642e-13, relerr: 2.78042e-13
+Kaczmarz -> gaussian, real, eig_init, n: 256, m: 1536, iter: 10, t: 0.431471, relres: 5.19165e-13, relerr: 4.76248e-13
+Kaczmarz -> gaussian, real, eig_init, n: 256, m: 1536, iter: 10, t: 0.431978, relres: 1.36587e-12, relerr: 1.1856e-12
+Kaczmarz -> gaussian, real, eig_init, n: 256, m: 1536, iter: 10, t: 0.447707, relres: 2.84877e-13, relerr: 2.72244e-13
+Kaczmarz -> gaussian, real, eig_init, n: 256, m: 1536, iter: 10, t: 0.431744, relres: 1.05549e-12, relerr: 9.98047e-13
+Kaczmarz -> gaussian, real, eig_init, n: 256, m: 1536, iter: 11, t: 0.498012, relres: 9.18066e-15, relerr: 8.94302e-15
+Kaczmarz -> gaussian, real, eig_init, n: 256, m: 1536, iter: 10, t: 0.4433, relres: 8.12176e-13, relerr: 7.82396e-13

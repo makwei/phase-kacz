@@ -1,0 +1,30 @@
+\begin{table}[htp]
+\centering
+\caption{Computational results of ER, Wirtinger Flow and the block Kaczmarz method
+when reconstructing the $3$D Caffeine molecule's density projection and the RGB image Milky Way galaxy to high accuracy. Four different numbers of coded diffraction patterns $L=4,8,12,16$ are tested.}
+\vspace{0.2cm}
+\begin{tabular}{ccccccccccc}
+\hline
+\multicolumn{2}{c}{} & \multicolumn{4}{c}{Caffeine}& & \multicolumn{4}{c}{Galaxy}\\
+\cline{3-6}\cline{8-11}
+\multicolumn{2}{c}{} & $L=4$ & $L=8$ & $L=12$ & $L=16$& & $L=4$ & $L=8$ & $L=12$ & $L=16$\\
+\hline
+\multirow{4}{*}{ER} & \#succ &0 &6 &10 &10 & &0 &2 &2 &10\\
+ & rel.err &- &1.6e-10 &1.4e-10 &1.3e-10 & &- &1.7e-10 &1.3e-10 &1.2e-10\\
+ & \#its &- &227 &95 &69 & &- &904 &353 &154\\
+ & time(s) &- &3.26 &2.11 &2.0 & &- &2038 &858.3 &686.2\\
+\hline
+ & \#succ &0 &3 &10 &10 & &0 &0 &4 &10\\
+Wirtinger & rel.err &- &1.1e-10 &2.0e-10 &1.7e-10 & &- &- & 1.9e-10&1.7e-10\\
+Flow & \#its &- &1057 &279 &233 & &- &- &467 &277\\
+ & time(s) &- &12.4 &4.8 &5.4 & &- &- &1362.8 &1063.2\\
+
+\hline
+ & \#succ &10 &10 &10 &10 & &10 &10 &10 &10\\
+block & rel.err &7.8e-10 &1.1e-10 &2.0e-11 &9.4e-12 & &7.2e-10 &1.3e-10 &3.4e-11 &1.2e-11\\
+Kaczmarz & \#its &169 &23 &12 &8 & &296 &28 &19 &13\\
+ & time(s) &\textbf{1.4} &\textbf{0.4} &\textbf{0.33} &\textbf{0.3} & &\textbf{356} &\textbf{69.7} &\textbf{69.8} &\textbf{65.3}\\
+
+\hline
+\end{tabular}
+\end{table}

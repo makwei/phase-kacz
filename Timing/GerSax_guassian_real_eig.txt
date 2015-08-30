@@ -1,0 +1,10 @@
+GerSax -> gaussian, real, eig_init, n: 256, m: 1536, iter: 7, t: 0.0307751, relres: 6.21134e-13, relerr: 6.42735e-13
+GerSax -> gaussian, real, eig_init, n: 256, m: 1536, iter: 8, t: 0.042718, relres: 1.10298e-12, relerr: 1.17807e-12
+GerSax -> gaussian, real, eig_init, n: 256, m: 1536, iter: 7, t: 0.02999, relres: 7.08689e-13, relerr: 7.56762e-13
+GerSax -> gaussian, real, eig_init, n: 256, m: 1536, iter: 7, t: 0.029171, relres: 1.15474e-12, relerr: 1.29991e-12
+GerSax -> gaussian, real, eig_init, n: 256, m: 1536, iter: 8, t: 0.034446, relres: 6.34204e-13, relerr: 6.44124e-13
+GerSax -> gaussian, real, eig_init, n: 256, m: 1536, iter: 7, t: 0.031095, relres: 8.74563e-13, relerr: 8.7364e-13
+GerSax -> gaussian, real, eig_init, n: 256, m: 1536, iter: 7, t: 0.029997, relres: 6.80647e-13, relerr: 7.6117e-13
+GerSax -> gaussian, real, eig_init, n: 256, m: 1536, iter: 7, t: 0.031312, relres: 6.1874e-13, relerr: 7.11693e-13
+GerSax -> gaussian, real, eig_init, n: 256, m: 1536, iter: 6, t: 0.025667, relres: 5.50616e-13, relerr: 6.08857e-13
+GerSax -> gaussian, real, eig_init, n: 256, m: 1536, iter: 7, t: 0.032093, relres: 1.09986e-12, relerr: 1.19945e-12

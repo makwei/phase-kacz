@@ -1,0 +1,15 @@
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 25, t: 0.009765, relres: 1.76408e-10, relerr: 2.18997e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 25, t: 0.008651, relres: 3.33742e-10, relerr: 4.00763e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 24, t: 0.009098, relres: 2.04357e-10, relerr: 2.44144e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 25, t: 0.008169, relres: 2.65011e-10, relerr: 3.40122e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 26, t: 0.010672, relres: 3.46848e-10, relerr: 4.05191e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 27, t: 0.008446, relres: 3.83559e-10, relerr: 4.49034e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 25, t: 0.010055, relres: 3.24532e-10, relerr: 4.12875e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 23, t: 0.007685, relres: 3.60889e-10, relerr: 4.28232e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 23, t: 0.006781, relres: 2.28827e-10, relerr: 3.05081e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 23, t: 0.00663, relres: 1.62855e-10, relerr: 2.15859e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 23, t: 0.00662, relres: 2.9142e-10, relerr: 3.41844e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 23, t: 0.006684, relres: 1.95193e-10, relerr: 2.37603e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 30, t: 0.014482, relres: 2.69891e-10, relerr: 3.32462e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 23, t: 0.008214, relres: 1.51305e-10, relerr: 1.93761e-10
+Block Kaczmarz-256 -> cdp, eig_init, n: 256, m: 1536, iter: 25, t: 0.007257, relres: 1.41236e-10, relerr: 1.61721e-10

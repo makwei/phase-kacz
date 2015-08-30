@@ -1,0 +1,10 @@
+GerSax -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 98, t: 8.91915, relres: 9.06798e-11, relerr: 1.39247e-10
+GerSax -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 215, t: 19.0039, relres: 8.3299e-11, relerr: 1.28065e-10
+GerSax -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 91, t: 8.0492, relres: 8.37995e-11, relerr: 1.2868e-10
+GerSax -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 182, t: 15.9867, relres: 8.09504e-11, relerr: 1.24541e-10
+GerSax -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 106, t: 9.88341, relres: 8.9469e-11, relerr: 1.37545e-10
+GerSax -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 94, t: 8.54453, relres: 7.78034e-11, relerr: 1.1938e-10
+GerSax -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 113, t: 10.2704, relres: 7.97435e-11, relerr: 1.22518e-10
+GerSax -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 254, t: 22.5344, relres: 9.52609e-11, relerr: 1.46564e-10
+GerSax -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 241, t: 22.0467, relres: 8.13902e-11, relerr: 1.24957e-10
+GerSax -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 96, t: 9.19516, relres: 8.43566e-11, relerr: 1.29476e-10

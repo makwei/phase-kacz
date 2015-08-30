@@ -1,0 +1,10 @@
+Wirtinger -> gaussian, complex, eig_init, n: 256, m: 1536, iter: 907, t: 6.94112, relres: 9.90316e-11, relerr: 2.99905e-10
+Wirtinger -> gaussian, complex, eig_init, n: 256, m: 1536, iter: 913, t: 7.05523, relres: 9.98136e-11, relerr: 3.11034e-10
+Wirtinger -> gaussian, complex, eig_init, n: 256, m: 1536, iter: 884, t: 6.83775, relres: 9.82854e-11, relerr: 2.90584e-10
+Wirtinger -> gaussian, complex, eig_init, n: 256, m: 1536, iter: 874, t: 6.74285, relres: 9.81071e-11, relerr: 2.83341e-10
+Wirtinger -> gaussian, complex, eig_init, n: 256, m: 1536, iter: 932, t: 7.21514, relres: 9.98921e-11, relerr: 3.16546e-10
+Wirtinger -> gaussian, complex, eig_init, n: 256, m: 1536, iter: 933, t: 7.09564, relres: 9.8557e-11, relerr: 3.0303e-10
+Wirtinger -> gaussian, complex, eig_init, n: 256, m: 1536, iter: 938, t: 7.07613, relres: 9.80263e-11, relerr: 2.90946e-10
+Wirtinger -> gaussian, complex, eig_init, n: 256, m: 1536, iter: 904, t: 6.98708, relres: 9.84127e-11, relerr: 2.98359e-10
+Wirtinger -> gaussian, complex, eig_init, n: 256, m: 1536, iter: 877, t: 6.70421, relres: 9.82119e-11, relerr: 2.93433e-10
+Wirtinger -> gaussian, complex, eig_init, n: 256, m: 1536, iter: 948, t: 7.45423, relres: 9.91193e-11, relerr: 3.1599e-10

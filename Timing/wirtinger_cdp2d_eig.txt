@@ -1,0 +1,9 @@
+Wirtinger -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 282, t: 21.0973, relres: 9.21878e-11, relerr: 1.87118e-10
+Wirtinger -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 347, t: 25.4462, relres: 9.5606e-11, relerr: 1.93587e-10
+Wirtinger -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 276, t: 20.0246, relres: 9.04292e-11, relerr: 1.83292e-10
+Wirtinger -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 326, t: 23.9185, relres: 9.47115e-11, relerr: 1.92269e-10
+Wirtinger -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 287, t: 20.9062, relres: 9.78532e-11, relerr: 1.98504e-10
+Wirtinger -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 292, t: 21.6939, relres: 9.32736e-11, relerr: 1.89058e-10
+Wirtinger -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 379, t: 26.4179, relres: 9.71593e-11, relerr: 1.97094e-10
+Wirtinger -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 364, t: 25.4135, relres: 9.3295e-11, relerr: 1.88918e-10
+Wirtinger -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 280, t: 20.2463, relres: 9.41603e-11, relerr: 1.90803e-10

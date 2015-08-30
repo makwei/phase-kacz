@@ -1,0 +1,15 @@
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 160, t: 0.070636, relres: 9.02694e-11, relerr: 1.9303e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 153, t: 0.049081, relres: 9.32704e-11, relerr: 1.86439e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 145, t: 0.046537, relres: 9.95179e-11, relerr: 2.13892e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 150, t: 0.064283, relres: 9.87965e-11, relerr: 2.1455e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 162, t: 0.065875, relres: 9.02524e-11, relerr: 1.93688e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 160, t: 0.061042, relres: 9.5369e-11, relerr: 2.00542e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 151, t: 0.061591, relres: 8.99684e-11, relerr: 1.87542e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 137, t: 0.042626, relres: 9.97385e-11, relerr: 2.04684e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 148, t: 0.045482, relres: 9.2363e-11, relerr: 1.82264e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 151, t: 0.046728, relres: 9.14443e-11, relerr: 2.00065e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 148, t: 0.04539, relres: 9.52078e-11, relerr: 2.01708e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 146, t: 0.04678, relres: 9.47967e-11, relerr: 2.01204e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 232, t: 0.07028, relres: 9.37494e-11, relerr: 2.01787e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 157, t: 0.049743, relres: 9.33598e-11, relerr: 1.99422e-10
+GerSax -> cdp, eig_init, n: 256, m: 1536, iter: 150, t: 0.047472, relres: 9.26543e-11, relerr: 2.00974e-10

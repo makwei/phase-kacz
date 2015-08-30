@@ -1,0 +1,31 @@
+\begin{table}[htp]
+\centering
+\caption{Computational results of ER, Wirtinger Flow and the Kaczmarz methods when solving the problems 
+to high accuracy. In the block Kaczmarz method, the block size is selected to be $n/4$ for the Gaussian model, and respectively $n$ and $n_1\times n_2$ for the coded 
+diffraction $1$D and $2$D models.}
+\label{table}
+\vspace{0.2cm}
+\begin{tabular}{cccccccc}
+\hline
+& \multicolumn{3}{c}{ER} & &\multicolumn{3}{c}{Wirtinger Flow}\\
+\cline{2-4}\cline{6-8}
+%& \cline{2-4} & &\cline{6-8}
+& \#its & time(s) & rel.err &&\#its & time(s)  & rel.err\\
+\hline
+Gaussian Real & 7& \textbf{0.032} & 8.68e-13 && 286&0.886&1.9e-10  \\
+Gaussian Complex &144 &1.067 &2.0e-10 & & 911&7.011 &3.0e-10 \\
+CDP 1D &157 &0.054 &1.99e-10 & &909 &0.301 & 2.94e-10\\
+CDP 2D & 149&13.443 &1.3e-10 & &315 &22.796 & 1.91e-10\\
+\hline
+& \multicolumn{3}{c}{simple Kaczmarz} & &\multicolumn{3}{c}{block Kaczmarz}\\
+\cline{2-4}\cline{6-8}
+%& \cline{2-4} & &\cline{6-8}
+& \#its & time(s)  & rel.err &&\#its & time(s) & rel.err\\
+\hline
+Gaussian Real &10 &0.469 &4.81e-13& & 8& 0.036& 6.81e-12 \\
+Gaussian Complex & 24&1.643 &1.14e-10 & & 26&\textbf{0.274}&3.04e-10  \\
+CDP 1D & 24& 1.927&7.3e-11 & &25 & \textbf{0.009}&3.13e-10 \\
+CDP 2D &- &- & -& &15 &\textbf{1.478} &2.41e-11 \\
+\hline
+\end{tabular}
+\end{table}

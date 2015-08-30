@@ -1,0 +1,15 @@
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 878, t: 0.26593, relres: 9.77079e-11, relerr: 2.84079e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 879, t: 0.275914, relres: 9.85996e-11, relerr: 2.85928e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 917, t: 0.296685, relres: 9.99539e-11, relerr: 3.1171e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 913, t: 0.312954, relres: 9.94738e-11, relerr: 3.04589e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 874, t: 0.298354, relres: 9.80572e-11, relerr: 2.87465e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 912, t: 0.339251, relres: 9.88112e-11, relerr: 2.9045e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 875, t: 0.324159, relres: 9.77668e-11, relerr: 2.92437e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 856, t: 0.280812, relres: 9.81229e-11, relerr: 2.86075e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 887, t: 0.281581, relres: 9.81954e-11, relerr: 2.86255e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 996, t: 0.353321, relres: 9.99132e-11, relerr: 3.10798e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 876, t: 0.271085, relres: 9.81733e-11, relerr: 2.8776e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 892, t: 0.290427, relres: 9.99087e-11, relerr: 3.01501e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 1070, t: 0.337629, relres: 9.93826e-11, relerr: 2.88487e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 896, t: 0.280385, relres: 9.8865e-11, relerr: 2.98699e-10
+Wirtinger -> cdp, eig_init, n: 256, m: 1536, iter: 920, t: 0.303025, relres: 9.92947e-11, relerr: 3.04841e-10

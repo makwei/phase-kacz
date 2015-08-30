@@ -1,0 +1,10 @@
+Block Kaczmarz -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 13, t: 1.3419, relres: 1.48002e-11, relerr: 1.59035e-11
+Block Kaczmarz -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 16, t: 1.70208, relres: 1.59268e-11, relerr: 1.71298e-11
+Block Kaczmarz -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 12, t: 1.22386, relres: 1.92155e-11, relerr: 2.06616e-11
+Block Kaczmarz -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 16, t: 1.62507, relres: 2.57302e-11, relerr: 2.76824e-11
+Block Kaczmarz -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 14, t: 1.41399, relres: 1.19476e-11, relerr: 1.28914e-11
+Block Kaczmarz -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 13, t: 1.26875, relres: 1.02635e-11, relerr: 1.10452e-11
+Block Kaczmarz -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 14, t: 1.38638, relres: 4.84926e-11, relerr: 5.20787e-11
+Block Kaczmarz -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 18, t: 1.75913, relres: 2.69404e-11, relerr: 2.89665e-11
+Block Kaczmarz -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 18, t: 1.76883, relres: 3.07932e-11, relerr: 3.30767e-11
+Block Kaczmarz -> cdp2d, eig_init, n1: 256, n2: 256, m: 786432, iter: 13, t: 1.28759, relres: 1.98939e-11, relerr: 2.13755e-11
